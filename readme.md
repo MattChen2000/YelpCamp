@@ -1,6 +1,9 @@
-# Dynamic Price Feature - Yelp Camp
+# YelpCamp: A campground recommendation system that stores, shares, and lets users comment on camping sites nationwide
 
-## Steps
-- Add price to campground model as a String datatype
-- Add price to views/campgrounds/new.ejs and views/campgrounds/edit.ejs (new and edit forms)
-- Add price to views/camprounds/show.ejs (campground show page)
+## Features
+- CRUD of campgrounds
+- Comments
+- User Authentication
+
+## Components:
+Utilized Bootstrap 4 to build the front-end webpage, Node.js and Express to set up the RESTful routes, and MongoDB to manipulate a NoSQL database.
